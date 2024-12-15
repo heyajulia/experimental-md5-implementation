@@ -1,0 +1,3 @@
+[workspace]
+members = ["md5", "md5sum"]
+resolver = "2"
